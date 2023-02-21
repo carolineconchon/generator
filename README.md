@@ -1,3 +1,3 @@
-# love_generator
+sentence generator
 
 Générateur de phrases aléatoire
